@@ -2,7 +2,7 @@
 LeetCode刷题记录整合，包含题目描述、解题思路和解题代码
 
 ## 题目分类
-### 1.链表v1.0
+### 1.链表_v1.0
 [Leetcode  206.链表反转](https://leetcode.cn/problems/reverse-linked-list/)
 
 [Leetcode  203.移除链表中的元素](https://leetcode.cn/problems/remove-linked-list-elements/)
